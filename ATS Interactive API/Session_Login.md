@@ -7,8 +7,8 @@ The Session Login process allows you to establish a WebSocket connection to the 
 ## WebSocket Connection
 
 To establish a WebSocket connection with the ATS Execution Service, use the following URL:
-```json
-ws://execution-streaming-service-ip:port
+
+*ws://execution-streaming-service-ip:port*
 
 ---
 
