@@ -16,7 +16,7 @@ To establish a WebSocket connection with the ATS Execution Service, use the foll
 
 ### Session Login Request
 
-> Request Types: `1001` - Login Request, `1003` - Logout Request, `1005` - UI Login Request
+**Request Types:** `1001` - Login Request, `1003` - Logout Request, `1005` - UI Login Request
 
 ```json
 {
@@ -30,7 +30,7 @@ To establish a WebSocket connection with the ATS Execution Service, use the foll
 
 ### Session Login Response
 
-> Response Types: `1002` - Login Response, `1004` - Logout Response, `1006` - UI Login Response
+**Response Types:** `1002` - Login Response, `1004` - Logout Response, `1006` - UI Login Response
 
 ```json
 {
