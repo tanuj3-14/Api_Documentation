@@ -48,3 +48,5 @@
   "max-quantity-per-order": 50
 }
 ```
+**Max New Order:** Max number of orders for the portfolio \
+**Max Qty per order:** Max quantity that can fired per order
