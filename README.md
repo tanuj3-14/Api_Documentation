@@ -3,7 +3,7 @@
 This document provides an overview of the usage of the API for different sections. The documentation is divided into the following major categories:
 
 ## 1. ATS Interactive API
-This section covers API endpoints related to ATS (Automated Trading System) interaction.
+This section covers API endpoints related to ATS (Antares Trading System) interaction.
 
 - [Session Login](ATS%20Interactive%20API/Session_Login.md)
 - [Portfolio Subscription](ATS%20Interactive%20API/Portfolio_Subscription.md)
