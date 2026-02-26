@@ -28,9 +28,11 @@ This section includes documentation for accessing and using market data.
 - [LPP](Market%20Data/Rest-Api/LPP.md)
 - [LTP](Market%20Data/Rest-Api/LTP.md)
 - [OHLC](Market%20Data/Rest-Api/OHLC.md)
+
 - [OI](Market%20Data/Rest-Api/OI.md)
 - [Touchline](Market%20Data/Rest-Api/Touchline.md)
 
 ### Streaming API
 - [Market Data Subscription](Market%20Data/Streaming/MarketData_Subscription.md)
+
 - [Session Login](Market%20Data/Streaming/Session_Login.md)
