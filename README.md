@@ -33,6 +33,7 @@ This section includes documentation for accessing and using market data.
 - [Touchline](Market%20Data/Rest-Api/Touchline.md)
 
 ### Streaming API
+- [Session Login](Market%20Data/Streaming/Session_Login.md)
+
 - [Market Data Subscription](Market%20Data/Streaming/MarketData_Subscription.md)
 
-- [Session Login](Market%20Data/Streaming/Session_Login.md)

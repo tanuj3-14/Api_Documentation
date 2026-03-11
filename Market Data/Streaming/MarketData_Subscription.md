@@ -106,8 +106,7 @@
       "close": <close-price>,
       "volume": <volume>,
       "exchange": "<exchange-segment>",
-      "ts": <timestamp>,
-      "OI": <open-interest>
+      "ts": <timestamp>
     }
   ]
 }
