@@ -117,3 +117,26 @@
 **Exchange Segments:** `NSEFO`, `NSECM`, `BSEFO`, etc.
 
 **Open High Low and Close Prices :**  In Paisa.
+
+---
+
+## Closing Auction Session End Response
+
+> Response Type: `20004` - CAS End Response (every 1 minute)
+
+```json
+{
+  "ResponseHeader": {
+    "responseType": 20004
+  },
+  "ResponseBody": [
+    {
+      "message": "CAS ENDED",
+      "exchange": "<exchange-segment>",
+      "ts": <timestamp>
+    }
+  ]
+}
+```
+
+> `CAS END` Have to subsribe to a single token of that segment to get this message
