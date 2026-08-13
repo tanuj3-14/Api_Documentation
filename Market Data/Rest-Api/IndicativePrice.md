@@ -17,7 +17,7 @@ http://ip:port/indicativePrice/<exchange-segment>/<instrument-token-id>
   "INDICATIVEPRICE": [
     {
       "token": <instrument-token-id>,
-      "IndicativePrice": <Indicative-price>,
+      "indicativePrice": <indicative-price>,
       "ts": <timestamp>
     }
   ]
@@ -53,12 +53,12 @@ http://ip:port/indicativePrices
   "INDICATIVEPRICE": [
     {
       "token": <instrument-token-id>,
-      "IndicativePrice": <Indicative-price>,
+      "indicativePrice": <indicative-price>,
       "ts": <timestamp>
     },
     {
       "token": <instrument-token-id>,
-      "IndicativePrice": <Indicative-price>,
+      "indicativePrice": <indicative-price>,
       "ts": <timestamp>
     }
   ]
