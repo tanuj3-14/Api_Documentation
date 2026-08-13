@@ -25,11 +25,13 @@ This section includes documentation for accessing and using market data.
 
 ### Rest API
 - [DPR](Market%20Data/Rest-Api/DPR.md)
+- [Indicative Price](Market%20Data/Rest-Api/IndicativePrice.md)
 - [LPP](Market%20Data/Rest-Api/LPP.md)
 - [LTP](Market%20Data/Rest-Api/LTP.md)
 - [OHLC](Market%20Data/Rest-Api/OHLC.md)
 
 - [OI](Market%20Data/Rest-Api/OI.md)
+- [Reference Price](Market%20Data/Rest-Api/ReferencePrice.md)
 - [Touchline](Market%20Data/Rest-Api/Touchline.md)
 
 ### Streaming API
