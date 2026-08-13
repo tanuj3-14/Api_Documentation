@@ -7,7 +7,7 @@
 > HTTP GET Request
 
 ```
-http://ip:port/IndicativePrice/<exchange-segment>/<instrument-token-id>
+http://ip:port/indicativePrice/<exchange-segment>/<instrument-token-id>
 ```
 
 ## Indicative Price Response — Single Token
@@ -31,7 +31,7 @@ http://ip:port/IndicativePrice/<exchange-segment>/<instrument-token-id>
 > HTTP POST Request (maximum 32 tokens per request)
 
 ```
-http://ip:port/IndicativePrices
+http://ip:port/indicativePrices
 ```
 
 ```json

@@ -122,7 +122,7 @@
 
 ## Closing Auction Session End Response
 
-> Response Type: `20004` - CAS End Response (every 1 minute)
+> Response Type: `20004` - CAS End Response
 
 ```json
 {
