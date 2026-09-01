@@ -14,7 +14,7 @@ http://ip:port/referencePrice/<exchange-segment>/<instrument-token-id>
 
 ```json
 {
-  "REFERENCEPRICE": [
+  "ReferencePrice": [
     {
       "token": <instrument-token-id>,
       "referencePrice": <reference-price>,
@@ -50,7 +50,7 @@ http://ip:port/referencePrices
 
 ```json
 {
-  "REFERENCEPRICE": [
+  "ReferencePrice": [
     {
       "token": <instrument-token-id>,
       "referencePrice": <reference-price>,

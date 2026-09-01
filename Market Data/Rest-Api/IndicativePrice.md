@@ -14,7 +14,7 @@ http://ip:port/indicativePrice/<exchange-segment>/<instrument-token-id>
 
 ```json
 {
-  "INDICATIVEPRICE": [
+  "IndicativePrice": [
     {
       "token": <instrument-token-id>,
       "indicativePrice": <indicative-price>,
@@ -50,7 +50,7 @@ http://ip:port/indicativePrices
 
 ```json
 {
-  "INDICATIVEPRICE": [
+  "IndicativePrice": [
     {
       "token": <instrument-token-id>,
       "indicativePrice": <indicative-price>,

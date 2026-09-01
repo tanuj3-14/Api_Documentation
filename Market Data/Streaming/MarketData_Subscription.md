@@ -41,7 +41,9 @@
       "ltp": <ltp>,
       "totalBuyQty": <total-buy-quantity>,
       "totalSellQty": <total-sell-quantity>,
-      "prevClosePrice": <previous-close-price>,
+      "prevClosePrice": <previous-close-price>,,
+      "referencePrice": <reference-price>,
+      "indicativeClosePrice": <indicative-close-price>,
       "exchange": "<exchange-segment>",
       "ts": <timestamp>
     },
